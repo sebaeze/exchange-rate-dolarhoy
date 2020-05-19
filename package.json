@@ -1,6 +1,6 @@
 {
   "name": "exchange-rate-dolarhoy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Sebastian Andreoletti at sebaeze@gmail.com",
   "description": "Get exchange rate from dolarhoy.com",
   "main": "index.js",
