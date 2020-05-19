@@ -5,8 +5,8 @@ node_modules/*.*
 # production
 /build
 /build/*.*
-/lib
-lib/*.*
+## /lib
+## lib/*.*
 /dist
 dist/*.html
 dist/*.js
