@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "author": "Sebastian Andreoletti at sebaeze@gmail.com",
   "description": "Get exchange rate from dolarhoy.com",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "build:npm": "webpack  --mode production --config ./build_config/webpack.npm.js",
     "postinstall": "npm run build:npm",

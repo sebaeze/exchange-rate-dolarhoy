@@ -5,9 +5,9 @@ const path                        = require('path')    ;
 const webpack                     = require("webpack") ;
 //
 module.exports = {
-  entry: './src/index.js',
+  entry: './index.js',
   output: {
-    filename: 'index.js',
+    filename: 'exchangeRate.js',
     path: path.join(__dirname, '../lib'),
     library: 'exchange-rate-dolarhoy',
     libraryTarget: 'umd'

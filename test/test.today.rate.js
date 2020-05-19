@@ -1,7 +1,7 @@
 /*
 *
 */
-import { exchangeRate }     from '../lib/index' ;
+import { exchangeRate }     from '../index' ;
 //
 exchangeRate.getRateDolarHoy({conversion:'USD_ARS'})
     .then((resD)=>{
