@@ -55,7 +55,10 @@ module.exports = {
       process: true,
       module: false,
       clearImmediate: false,
-      setImmediate: false
+      setImmediate: false,
+      "aws-sign2": false,
+      aws4: false,
+      caseless: false,
   }
 };
 //

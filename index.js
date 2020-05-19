@@ -1,7 +1,7 @@
 /*
 *
 */
-import { exchangeRate }     from "./src/exchangeRate" ;
+import { exchangeRate }     from "./lib/exchangeRate" ;
 //
 export { exchangeRate } ;
 //

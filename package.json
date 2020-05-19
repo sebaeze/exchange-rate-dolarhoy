@@ -6,8 +6,8 @@
   "main": "index.js",
   "scripts": {
     "build:npm": "webpack  --mode production --config ./build_config/webpack.npm.js",
-    "postinstallDELETE": "npm run build:npm",
-    "prepublishOnlyDELETE": "npm run build:npm",
+    "postinstallDELETe": "npm run build:npm",
+    "prepublishOnly": "npm run build:npm",
     "test:tc": "babel-node ./test/test.today.rate.js "
   },
   "dependencies": {
