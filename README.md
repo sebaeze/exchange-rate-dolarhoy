@@ -2,9 +2,9 @@
 
 The default rate is USD to ARS but you can specify others currencies:
 
-USD_BRZ ==> Real ( BRZ )
-USD_CLP ==> Peso Chile ( CLP )
-USD_UYU ==> Peso Uruguay ( UYU )
+* USD_BRZ ==> Real ( BRZ )
+* USD_CLP ==> Peso Chile ( CLP )
+* USD_UYU ==> Peso Uruguay ( UYU )
 
 ## Installation
 
