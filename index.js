@@ -1,7 +1,7 @@
 /*
 *
 */
-import { exchangeRate }     from "./lib/exchangeRate" ;
+const exchangeRate    = require("./lib/exchangeRate").exchangeRate ;
 //
-export { exchangeRate } ;
+module.exports.exchangeRate = exchangeRate ;
 //
