@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+node_modules/*.*
+
+# production
+/build
+/build/*.*
+/lib
+lib/*.*
+/dist
+dist/*.html
+dist/*.js
+dist/*.css
+dist/*.map
+.cache
+.vscode
